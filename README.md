@@ -1,8 +1,8 @@
 # VimeTp-Source
 
-*VimeTp Nedir?
+VimeTp Nedir?
 ------------
-VimeTp netlimiterı kullanarak internet paketlerini yöneten bir uygualamadır bu uygulama oyunlar da kullanılır*
+*VimeTp netlimiterı kullanarak internet paketlerini yöneten bir uygualamadır bu uygulama oyunlar da kullanılır*
 
 
 **ÖRNEK:**
